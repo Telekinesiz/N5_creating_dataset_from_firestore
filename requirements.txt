@@ -1,0 +1,5 @@
+firebase-admin
+python-dotenv
+pandas
+nltk
+langdetect
